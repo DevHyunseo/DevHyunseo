@@ -1,4 +1,4 @@
-👋 Hi, I’m Hyunseo Jo!
+## About Me
 
 🎓 B.S. in Computer Education
 Shilla University, South Korea
