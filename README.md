@@ -1,7 +1,19 @@
-## Hi there 👋 :stuck_out_tongue_winking_eye: :hearts: 
+## About Me
 
-- :school: I majored in computer education
-- :black_nib: I'm currently studying AI because I want to become an AI expert :smirk:
-- :microphone: I love singing :two_hearts:
-- :running: I like running :sparkles:
-- :email: My email is theeastside@naver.com
+🎓 B.S. in Computer Education
+
+🎓 Incoming Integrated M.S./Ph.D. Student
+
+🔬 Interested in
+
+- Computer Vision
+- Efficient AI
+
+🚀 Current Research
+
+- DAMamba
+- Multi-Head Dynamic Adaptive Scan
+- Mixture-of-Head Routing
+
+📫 Email
+theeastside@naver.com
