@@ -1,10 +1,10 @@
 ## About Me
 
-🎓 B.S. in Computer Education
-Shilla University, South Korea
-
 🎓 Incoming Integrated M.S./Ph.D. Student
 Ulsan National Institute of Science and Technology (UNIST)
+
+🎓 B.S. in Computer Education
+Shilla University, South Korea
 
 ⸻
 
