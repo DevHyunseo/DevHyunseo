@@ -1,19 +1,32 @@
-## About Me
+👋 Hi, I’m Hyunseo Jo!
 
 🎓 B.S. in Computer Education
+Shilla University, South Korea
 
 🎓 Incoming Integrated M.S./Ph.D. Student
+Ulsan National Institute of Science and Technology (UNIST)
 
-🔬 Interested in
+⸻
 
-- Computer Vision
-- Efficient AI
+🔬 Research Interests
+
+* Computer Vision
+* Physical AI
+* Vision-Language-Action (VLA)
+* World Models
+* Efficient AI Systems
+
+⸻
 
 🚀 Current Research
 
-- DAMamba
-- Multi-Head Dynamic Adaptive Scan
-- Mixture-of-Head Routing
+* Vision Mamba & State Space Models (SSMs)
+* Efficient Vision Models
 
-📫 Email
-theeastside@naver.com
+⸻
+
+📫 Contact
+
+📧 theeastside@naver.com
+
+⸻
